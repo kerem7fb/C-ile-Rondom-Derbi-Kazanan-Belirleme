@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Fenerbahçe Galatasaray\Fenerbahçe Galatasaray\bin\Debug\Fenerbahçe Galatasaray.exe.config
+C:\Users\user\Desktop\10-M\Fenerbahçe Galatasaray\Fenerbahçe Galatasaray\obj\Debug\Fenerbahçe_Galatasaray.Form1.resources
+C:\Users\user\Desktop\10-M\Fenerbahçe Galatasaray\Fenerbahçe Galatasaray\obj\Debug\Fenerbahçe_Galatasaray.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Fenerbahçe Galatasaray\Fenerbahçe Galatasaray\obj\Debug\Fenerbahçe Galatasaray.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Fenerbahçe Galatasaray\Fenerbahçe Galatasaray\bin\Debug\Fenerbahçe Galatasaray.exe
+C:\Users\user\Desktop\10-M\Fenerbahçe Galatasaray\Fenerbahçe Galatasaray\bin\Debug\Fenerbahçe Galatasaray.pdb
+C:\Users\user\Desktop\10-M\Fenerbahçe Galatasaray\Fenerbahçe Galatasaray\obj\Debug\Fenerbahçe Galatasaray.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Fenerbahçe Galatasaray\Fenerbahçe Galatasaray\obj\Debug\Fenerbahçe Galatasaray.exe
+C:\Users\user\Desktop\10-M\Fenerbahçe Galatasaray\Fenerbahçe Galatasaray\obj\Debug\Fenerbahçe Galatasaray.pdb
